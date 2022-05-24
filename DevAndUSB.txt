@@ -1,0 +1,26 @@
+Before you can make use of ADB and Fastboot Commands, you’ll have to enable Developer Options & USB Debugging on your Android Device.
+
+Requirements:
+• USB Driver for your Device or Universal Adb Driver (https://androidfilehost.com/?fid=2188818919693784734)
+
+How-To enable Developer Options & USB Debugging:
+01. Install the USB Driver for your Phone or Universal Adb Driver.
+02. On your Phone, go to Settings > About Phone. Find the Build Number and tap on it 7 times to enable Developer Options.
+03. Now enter System > Developer Options and find "USB debugging" and enable it.
+04. Plug your Phone into the Computer and change it from "Charge only" to "File Transfer" Mode.
+05. On your Computer, browse to the directory where you extracted the Portable Version or use Tiny ADB & Fastboot Shortcut.
+07. Launch a Command Prompt with Open CMD.bat or use Tiny ADB & Fastboot Shortcut.
+09. Once you’re in the Command Prompt, enter the following Command: adb devices
+10. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.).
+11. Succesful enabled USB Debugging.
+
+
+Unable to connect to ADB:
+1. AMD Bug? (https://forum.xda-developers.com/t/fix-fastboot-issues-on-ryzen-based-pcs.4186321/)
+2. Switch Device from "Charging" to "File Transfer" Mode
+3. Install the latest Device Driver or Universal USB Driver
+4. Try another USB Cable
+5. Use another USB Port (USB 3.0 Port to USB 2.0)
+6. Try to execute Fastboot Command without connecting your Phone, and once it says "waiting for device" plug in your USB Cable
+7. Windows: Click "Change advanced power setting" on your chosen Plan and expand "USB Settings". Under "USB Settings" Section, expand "USB selective suspend setting" and change it to "Disabled" for On Battery and Plugged In.
+8. Try another PC
