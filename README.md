@@ -93,3 +93,13 @@ and once it says "waiting for device" plug in your USB Cable
 2. Extract the Zip Archive
 3. Double click on Open CMD.bat
 4. You should see a Command Window open, now you can use ADB and Fastboot Commands
+<br />
+<br />
+
+## Screenshots
+<img src="https://i.ibb.co/m5Zg8Jy/License.png" width="250"></a> &emsp;
+<img src="https://i.ibb.co/RTSDhrM/Information.png" width="250"></a> &emsp;
+<img src="https://i.ibb.co/0B0qKGt/Tasks.png" width="250"></a> &emsp;
+<img src="https://i.ibb.co/0GH7y6V/Completing.png" width="250"></a> &emsp;
+<img src="https://i.ibb.co/fqyY9jj/Toolkit-Main.png" width="250"></a> &emsp;
+<img src="https://i.ibb.co/zSvHqWM/Toolkit-Menu.png" width="250"></a> &emsp;
