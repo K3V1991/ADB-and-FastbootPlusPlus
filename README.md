@@ -71,8 +71,8 @@
 ```
 adb devices
 ```
-9. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.).
-10. Succesful enabled USB Debugging.
+8. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.).
+9. Succesful enabled USB Debugging.
 
 ## Unable to connect to ADB:
 1. AMD Bug? - https://forum.xda-developers.com/t/fix-fastboot-issues-on-ryzen-based-pcs.4186321/
