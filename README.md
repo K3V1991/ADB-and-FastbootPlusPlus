@@ -16,7 +16,7 @@
 
 ## NFO:
 * Versions: Installer & Portable
-* Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 33.0.1-8253317, March 2022)
+* Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 33.0.2-8557947, May 2022)
 
 ## Features:
 * Installation Folder chooseable (Installer)
@@ -61,48 +61,58 @@
 * PowerShell for the Toolkit
 
 ## Enable Developer Options & USB Debugging:
-1. Install the USB Driver for your Phone or Universal Adb Driver.
-2. On your Phone, go to Settings > About Phone. Find the Build Number and tap on it 7 times to enable Developer Options.
-3. Now enter System > Developer Options and find "USB debugging" and enable it.
-4. Plug your Phone into the Computer and change it from "Charge only" to "File Transfer" Mode.
-5. On your Computer, browse to the Directory where you extracted the Portable Version or use Tiny ADB & Fastboot++ Shortcut.
-6. Launch a Command Prompt with Open CMD.bat or use Tiny ADB & Fastboot++ Shortcut.
+1. Install the USB Driver for your Phone or Universal Adb Driver
+2. On your Phone, go to Settings > About Phone. Find the Build Number and tap on it 7 times to enable Developer Options
+3. Now enter System > Developer Options and find "USB debugging" and enable it
+4. Plug your Phone into the Computer and change it from "Charge only" to "File Transfer" Mode
+5. On your Computer, browse to the Directory where you extracted the Portable Version or use Tiny ADB & Fastboot++ Shortcut
+6. Launch a Command Prompt with Open CMD.bat or use Tiny ADB & Fastboot++ Shortcut
 7. Once you’re in the Command Prompt, enter the following Command:
 ```
 adb devices
 ```
-8. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.).
-9. Succesful enabled USB Debugging.
+8. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.)
+9. Succesful enabled USB Debugging
 
 ## Unable to connect to ADB:
-1. AMD Bug? - https://forum.xda-developers.com/t/fix-fastboot-issues-on-ryzen-based-pcs.4186321/
+1. AMD Bug - [XDA Thread](https://forum.xda-developers.com/t/fix-fastboot-issues-on-ryzen-based-pcs.4186321/)
 2. Switch Device from "Charging" to "File Transfer" Mode
 3. Install the latest Device Driver or Universal USB Driver
 4. Try another USB Cable
 5. Use another USB Port (USB 3.0 Port to USB 2.0)
 6. Try to execute Fastboot Command without connecting your Phone,
 and once it says "waiting for device" plug in your USB Cable
-7. Windows: Click "Change advanced power setting" on your chosen Plan and expand "USB Settings". Under "USB Settings" Section, expand "USB selective suspend setting" and change it to "Disabled" for On Battery and Plugged In.
+7. Windows: Click "Change advanced power setting" on your chosen Plan and expand "USB Settings". Under "USB Settings" Section, expand "USB selective suspend setting" and change it to "Disabled" for On Battery and Plugged In
 8. Try another PC
 
 ## Installer:
-1. Download ADB_&_Fastboot++_vXXX.exe
+1. Download ADB-and-Fastboot++_vXXX.exe
 2. Follow the Installers Instructions and select where you would like to install ADB & Fastboot++
 3. After the Installation Wizard has completed you can select to start ADB & Fastboot++
 4. You should see a Command Window open, now you can use ADB and Fastboot Commands
 
 ## Portable:
-1. Download ADB_&_Fastboot++_vXXX_Portable.zip
+1. Download ADB-and-Fastboot++_vXXX-Portable.zip
 2. Extract the Zip Archive
 3. Double click on Open CMD.bat
 4. You should see a Command Window open, now you can use ADB and Fastboot Commands
 <br />
 <br />
 
-## Screenshots
-<img src="https://i.ibb.co/m5Zg8Jy/License.png" width="250"></a> &emsp;
-<img src="https://i.ibb.co/RTSDhrM/Information.png" width="250"></a> &emsp;
-<img src="https://i.ibb.co/0B0qKGt/Tasks.png" width="250"></a> &emsp;
-<img src="https://i.ibb.co/0GH7y6V/Completing.png" width="250"></a> &emsp;
-<img src="https://i.ibb.co/fqyY9jj/Toolkit-Main.png" width="250"></a> &emsp;
-<img src="https://i.ibb.co/zSvHqWM/Toolkit-Menu.png" width="250"></a> &emsp;
+## Screenshots:
+<img src="https://i.ibb.co/C893W7r/License.png"></a>
+<br />
+
+<img src="https://i.ibb.co/DY3J282/Information.png"></a>
+<br />
+
+<img src="https://i.ibb.co/bNVRZqW/Tasks.png"></a>
+<br />
+
+<img src="https://i.ibb.co/T0jsgrf/Completing.png"></a>
+<br />
+
+<img src="https://i.ibb.co/KVQWfvP/Toolkit-Main.png"></a>
+<br />
+
+<img src="https://i.ibb.co/swGZZbj/Toolkit-Menu.png"></a>
