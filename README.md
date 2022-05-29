@@ -61,6 +61,9 @@
 * PowerShell for the Toolkit
 
 ## Enable Developer Options & USB Debugging:
+<details>
+  <summary>Click to expand</summary>
+  
 1. Install the USB Driver for your Phone or Universal Adb Driver
 2. On your Phone, go to Settings > About Phone. Find the Build Number and tap on it 7 times to enable Developer Options
 3. Now enter System > Developer Options and find "USB debugging" and enable it
@@ -73,8 +76,12 @@ adb devices
 ```
 8. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.)
 9. Succesful enabled USB Debugging
+</details>
 
 ## Unable to connect to ADB:
+<details>
+  <summary>Click to expand</summary>
+  
 1. AMD Bug - [XDA Thread](https://forum.xda-developers.com/t/fix-fastboot-issues-on-ryzen-based-pcs.4186321/)
 2. Switch Device from "Charging" to "File Transfer" Mode
 3. Install the latest Device Driver or Universal USB Driver
@@ -84,7 +91,8 @@ adb devices
 and once it says "waiting for device" plug in your USB Cable
 7. Windows: Click "Change advanced power setting" on your chosen Plan and expand "USB Settings". Under "USB Settings" Section, expand "USB selective suspend setting" and change it to "Disabled" for On Battery and Plugged In
 8. Try another PC
-
+</details>
+  
 ## Installer:
 1. Download ADB-and-Fastboot++_vXXX.exe
 2. Follow the Installers Instructions and select where you would like to install ADB & Fastboot++
