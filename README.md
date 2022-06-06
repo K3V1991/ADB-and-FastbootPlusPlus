@@ -32,7 +32,7 @@
 * Install Kernel (Reboots automatically to Bootloader, Popup Menu)
 * Install Recovery (Reboots automatically to Bootloader, Popup Menu)
 * Install APKs (Popup Menu)
-* Install APK Bundles/Split APKs (Desktop/ABI Folder)
+* Install APK Bundles/Split APKs (Installer: Desktop/ABI Folder, Portable: ABI Folder)
 * Push Files (Popup Menu)
 * Check Firmware Version
 * Check Android Version
