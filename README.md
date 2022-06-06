@@ -29,30 +29,29 @@
 ## Toolkit Features:
 * Uninstall Bloatware without Root Access (They are just being uninstalled for the current User)
 * Re-install uninstalled Apps
-* Install Kernel (Popup Menu, reboots automatically to Bootloader)
-* Install Recovery (Popup Menu, reboots automatically to Bootloader)
+* Install Kernel (Reboots automatically to Bootloader, Popup Menu)
+* Install Recovery (Reboots automatically to Bootloader, Popup Menu)
 * Install APKs (Popup Menu)
+* Install APK Bundles/Split APKs (Desktop/ABI Folder)
 * Push Files (Popup Menu)
 * Check Firmware Version
 * Check Android Version
-* Check Kernel Version                
-* Check Firmware Build Date           
-* Check Kernel Build Date             
-* Check Security Patch Date           
-* Check IMEI                          
-* Check IP Adresses          
-* Check App Packages                  
+* Check Kernel Version 
+* Check Firmware Build Date
+* Check Kernel Build Date
+* Check Security Patch Date
+* Check IMEI           
+* Check IP Adresses
+* Check App Packages   
 * Check Process Activity (Real Time)
 * Take Screenshots (PNG Format)
-* Video recoding -  30 Seconds (Without Device Sound)
-* Video recoding -  60 Seconds (Without Device Sound)
-* Video recoding - 120 Seconds (Without Device Sound)
-* Video recoding - 180 Seconds (Without Device Sound)
-* Reboot the Device               
+* Video recoding - 30, 60, 120 & 180 Seconds (Without Device Sound)
+* Reboot the Device
 * Reboot to Bootloader
 * Exit Bootloader to System
-* Reboot to Recovery             
-* Create Logcat
+* Reboot to Recovery
+* Create Bugreport (Saves on Desktop)
+* Create Logcat (Saves on Desktop)
 * Exit (adb kill-server & close Toolkit)
 
 ## Requirements:
