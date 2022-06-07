@@ -64,7 +64,7 @@
   <summary>Click to expand</summary>
   
 1. Install the USB Driver for your Device or Universal Adb Driver
-2. On your Phone/Tablet, go to Settings > About. Find the Build Number and tap on it 7 times to enable Developer Options
+2. On your Device, go to Settings > About. Find the Build Number and tap on it 7 times to enable Developer Options
 3. Now enter System > Developer Options and find "USB debugging" and enable it
 4. Plug your Device into the Computer and change it from "Charge only" to "File Transfer" Mode
 5. On your Computer, browse to the Directory where you extracted the Portable Version or use Tiny ADB & Fastboot++ Shortcut
