@@ -106,11 +106,11 @@ adb devices
 <br />
 
 ## Screenshots:
-<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/License.png"></a>
+<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Information.png"></a>
 <br />
 <br />
 
-<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Information.png"></a>
+<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/License.png"></a>
 <br />
 <br />
 
