@@ -108,20 +108,26 @@ adb devices
 ## Screenshots:
 <img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/License.png"></a>
 <br />
+<br />
 
 <img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Information.png"></a>
+<br />
 <br />
 
 <img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Tasks.png"></a>
 <br />
+<br />
 
 <img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Completing.png"></a>
+<br />
 <br />
 
 <img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Shortcuts.png"></a>
 <br />
+<br />
 
 <img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Toolkit-Main.png"></a>
+<br />
 <br />
 
 <img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Toolkit-Menu.png"></a>
