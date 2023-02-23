@@ -106,19 +106,22 @@ adb devices
 <br />
 
 ## Screenshots:
-<img src="https://i.ibb.co/C893W7r/License.png"></a>
+<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/License.png"></a>
 <br />
 
-<img src="https://i.ibb.co/DY3J282/Information.png"></a>
+<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Information.png"></a>
 <br />
 
-<img src="https://i.ibb.co/bNVRZqW/Tasks.png"></a>
+<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Tasks.png"></a>
 <br />
 
-<img src="https://i.ibb.co/T0jsgrf/Completing.png"></a>
+<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Completing.png"></a>
 <br />
 
-<img src="https://i.ibb.co/KVQWfvP/Toolkit-Main.png"></a>
+<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Shortcuts.png"></a>
 <br />
 
-<img src="https://i.ibb.co/swGZZbj/Toolkit-Menu.png"></a>
+<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Toolkit-Main.png"></a>
+<br />
+
+<img src="https://github.com/K3V1991/ADB-and-FastbootPlusPlus/blob/main/Screenshots/Toolkit-Menu.png"></a>
