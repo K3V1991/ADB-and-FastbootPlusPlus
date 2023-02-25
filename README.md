@@ -4,14 +4,14 @@
 <br />
 
 <p align="center">
-<a href="https://forum.xda-developers.com/t/tool-windows-adb-fastboot-march-2022.3944288/" alt="XDA Thread"><img src="https://img.shields.io/badge/XDA-Thread-orange.svg"></a>
-<a href="" alt="Latest Release"><img src="https://img.shields.io/github/v/release/K3V1991/ADB-and-FastbootPlusPlus?color=blueviolet&label=Latest%20Release"></a>
-<a href="" alt="Downloads"><img src="https://img.shields.io/github/downloads/K3V1991/ADB-and-FastbootPlusPlus/total?color=green&label=Downloads"></a>
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="Donate-PayPal"><img src="https://img.shields.io/badge/Donate-PayPal-blue"></a>
-<a href="https://github.com/K3V1991/Donate-Crypto/blob/main/README.md" alt="Donate-Crypto"><img src="https://img.shields.io/badge/Donate-Crypto-yellow"></a>
+<a href="https://forum.xda-developers.com/m/k3v1991.7752429/" alt="XDA-Developers"><img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white">
+<img src="https://img.shields.io/github/v/release/K3V1991/ADB-and-FastbootPlusPlus?color=blueviolet%26label&style=for-the-badge">
+<img src="https://img.shields.io/github/downloads/K3V1991/ADB-and-FastbootPlusPlus/total?color=green&style=for-the-badge">
+<a href="https://ko-fi.com/k3v1991" alt="Ko-fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HW8B98TVDLKWA" alt="PayPal"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+<a href="https://github.com/K3V1991/Donate-Crypto/blob/main/README.md" alt="Crypto"><img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white">
 </p>
-<hr>
-<br />
+<hr />
 <br />
 
 ## NFO:
