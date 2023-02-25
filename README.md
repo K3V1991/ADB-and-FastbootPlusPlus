@@ -4,7 +4,7 @@
 <br />
 
 <p align="center">
-<a href="https://forum.xda-developers.com/m/k3v1991.7752429/" alt="XDA-Developers"><img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white">
+<a href="https://forum.xda-developers.com/t/tool-windows-adb-fastboot-february-2023.3944288/" alt="XDA-Developers"><img src="https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white">
 <img src="https://img.shields.io/github/v/release/K3V1991/ADB-and-FastbootPlusPlus?color=blueviolet&style=for-the-badge">
 <img src="https://img.shields.io/github/downloads/K3V1991/ADB-and-FastbootPlusPlus/total?color=sucess&style=for-the-badge">
 <a href="https://ko-fi.com/k3v1991" alt="Ko-fi"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
