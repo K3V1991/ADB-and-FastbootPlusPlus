@@ -16,7 +16,7 @@
 
 ## NFO:
 * Versions: Installer & Portable
-* Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 33.0.3-8952118, August 2022)
+* Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 34.0.0-9570255, February 2023)
 
 ## Features:
 * Installation Folder chooseable (Installer)
