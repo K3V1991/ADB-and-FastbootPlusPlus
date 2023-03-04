@@ -18,6 +18,11 @@
 * Versions: Installer & Portable
 * Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 34.0.0-9570255, February 2023)
 
+## Requirements:
+* Windows OS
+* USB Driver for your Device or Universal ADB Driver (Included in the Installer)
+* PowerShell for the Toolkit
+
 ## Features:
 * Installation Folder chooseable (Installer)
 * Desktop & Start Menu Shortcuts (Installer)
@@ -53,11 +58,21 @@
 * Create Bugreport (Saves on Desktop)
 * Create Logcat (Saves on Desktop)
 * Exit (adb kill-server & close Toolkit)
+<br />
 
-## Requirements:
-* Windows OS
-* USB Driver for your Device or Universal ADB Driver (Included in the Installer)
-* PowerShell for the Toolkit
+## Installer:
+1. Download ADB-and-Fastboot++_vXXX.exe
+2. Follow the Installers Instructions and select where you would like to install ADB & Fastboot++
+3. After the Installation Wizard has completed you can select to start ADB & Fastboot++
+4. You should see a Command Window open, now you can use ADB and Fastboot Commands
+
+## Portable:
+1. Download ADB-and-Fastboot++_vXXX-Portable.zip
+2. Extract the Zip Archive
+3. Double click on Open CMD.bat
+4. You should see a Command Window open, now you can use ADB and Fastboot Commands
+<br />
+<br />
 
 ## Enable Developer Options & USB Debugging:
 <details>
@@ -90,19 +105,6 @@ adb devices
 7. Windows: Click "Change advanced power setting" on your chosen Plan and expand "USB Settings". Under "USB Settings" Section, expand "USB selective suspend setting" and change it to "Disabled" for On Battery and Plugged In
 8. Try another PC
 </details>
-  
-## Installer:
-1. Download ADB-and-Fastboot++_vXXX.exe
-2. Follow the Installers Instructions and select where you would like to install ADB & Fastboot++
-3. After the Installation Wizard has completed you can select to start ADB & Fastboot++
-4. You should see a Command Window open, now you can use ADB and Fastboot Commands
-
-## Portable:
-1. Download ADB-and-Fastboot++_vXXX-Portable.zip
-2. Extract the Zip Archive
-3. Double click on Open CMD.bat
-4. You should see a Command Window open, now you can use ADB and Fastboot Commands
-<br />
 <br />
 
 ## Screenshots:
