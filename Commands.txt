@@ -1,6 +1,6 @@
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————————————
  ADB Commands:
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————————————
 
 adb help 	
 • Shows ADB Help Documentation.
@@ -74,9 +74,9 @@ adb push <source-path> <target-path>
 
 
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————————————
  ADB Shell Commands:
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————————————
 
 adb shell 	
 • Starts the Remote Shell Command Console in the Device.
@@ -136,19 +136,13 @@ adb shell screenrecord –bit-rate 4000000 /sdcard/screenrecord.mp4
 • Screen Recording with custom Bit Rate for the Video. 
 • The Value "4000000" sets the Bitrate to 4Mbmps.
 
-adb shell
-<Hit Enter and then execute the following command>
-cd /system 	
+adb shell cd /system
 • Changes the Directory to "/system".
 
-adb shell
-<Hit Enter and then execute the following command>
-rm -f /sdcard/<filename.zip>	
+adb shell rm -f /sdcard/<filename.zip>
 • Deletes a File from your Android Device.
 
-adb shell
-<Hit Enter and then execute the following command>
-crm -d /sdcard/example 	
+adb shell crm -d /sdcard/example
 • Deletes a Folder from your Android Device.
 
 mkdir /sdcard/Android	
@@ -163,36 +157,26 @@ mv /sdcard/filename.apk /sdcard/FolderName/
 mv /sdcard/filename.apk /sdcard/anotherfilename.apk 	
 • To rename a File.
 
-adb shell
-<Hit Enter and then execute the following command>
-netstat 	
+adb shell netstat
 • To check the Network Statistics of your Android Device.
 
-adb shell
-<Hit Enter and then execute the following command>
-ip -f inet addr show wlan0 	
+adb shell ip -f inet addr show wlan0
 • Displays your Phone's Wi-Fi IP Address.
 
-adb shell
-<Hit Enter and then execute the following command>
-top 	
+adb shell top
 • Displays top CPU Processes running on your Android Device.
 
-adb shell
-<Hit Enter and then execute the following command>
-getprop ro.build.version.sdk 	
+adb shell getprop ro.build.version.sdk
 • Used to get the Properties of your Android's build.prop Configuration.
 
-adb shell
-<Hit Enter and then execute the following command>
-setprop net.dns1 1.2.3.4 	
+adb shell setprop net.dns1 1.2.3.4
 • Used to set Values to the Properties present in your Android's build.prop Configuration.
 
 
 
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————————————
  Fastboot Commands:
-——————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+———————————————————————————————————————————————————————————————————————
 
 fastboot devices 	
 • List all the Android Devices that are connected in Fastboot Mode to your Computer.
