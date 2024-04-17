@@ -18,7 +18,7 @@
 
 ## NFO:
 * Versions: Installer & Portable
-* Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 34.0.0-9570255, February 2023)
+* Android Debug Bridge & Fastboot updated to latest v1.0.41 (Version 35.0.1-11580240, March 2024)
 
 ## Requirements:
 * Windows OS
@@ -63,7 +63,7 @@
 <br />
 
 ## Installer:
-1. Download ADB-and-Fastboot++_vXXX.exe
+1. Download ADB-and-Fastboot++_vXXX.msi
 2. Follow the Installers Instructions and select where you would like to install ADB & Fastboot++
 3. After the Installation Wizard has completed you can select to start ADB & Fastboot++
 4. You should see a Command Window open, now you can use ADB and Fastboot Commands
